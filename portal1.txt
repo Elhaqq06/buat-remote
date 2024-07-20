@@ -1,6 +1,8 @@
 
-line ke 1 ubah
-line ke 2 ubah
+
+line ke 1
+line ke 2
 line ke 3
 line ke 4
-line ke 5 ubah
+line ke 5
+
